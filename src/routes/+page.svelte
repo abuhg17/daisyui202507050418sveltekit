@@ -1,3 +1,7 @@
+<script>
+  import "../app.css";
+</script>
+
 <h1>This is Home Page.</h1>
 <p>
   <a href="https://daisyui202507050418sveltekit.vercel.app" class="btn btn-ghost text-xl">
